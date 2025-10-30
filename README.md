@@ -1,6 +1,5 @@
 # README
 
-## Project: Offline Reinforcement Learning for Credit Approval
 
 ### 1. Setup Instructions
 
